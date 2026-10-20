@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # social_app
 
 A new Flutter project.
@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-social-media-app
 ✨ A modern Instagram-inspired social media app built with Flutter and Dart. Explore a stylish feed, discover new profiles, watch reels, share posts, view stories, and connect through an intuitive user interface. Built as a hands-on project to explore mobile app development and social networking features. 🚀
->>>>>>> 56f989e814eccdfc4486c46ea7bc8a704d6b945f
+
